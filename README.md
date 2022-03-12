@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JoaoPedroSilvaLopes&color=blue" alt="Profile views" /> </p>
 
-- Bacharelado em **Ciência da Computação** (IFCE)
+- Estudante em Bacharelado em **Ciência da Computação** (IFCE)
 - Iniciante em **JavaScript, HTML5 e CSS3**
 
 <div align="center">
