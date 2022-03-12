@@ -1,4 +1,4 @@
-## Olá, seja bem-vindo, eu sou o João
+## Iae pessoas, d boa? Eu sou o joão
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JoaoPedroSilvaLopes&color=blue" alt="Profile views" /> </p>
 
