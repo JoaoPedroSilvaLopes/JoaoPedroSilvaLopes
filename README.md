@@ -4,6 +4,7 @@
 
 - Estudante em Bacharelado em **Ciência da Computação** (IFCE)
 - Iniciante em **JavaScript, HTML5 e CSS3**
+- Conhecimentos em **Flutter e Python**
 
 <div align="center">
   <a href="https://github.com/JoaoPedroSilvaLopes">
