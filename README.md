@@ -1,4 +1,10 @@
-## Olá, eu sou o João
+## Olá, seja bem-vindo, eu sou o João
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=JoaoPedroSilvaLopes&color=blue" alt="Profile views" /> </p>
+
+- Bacharelado em **Ciência da Computação** (IFCE)
+- Iniciante em **JavaScript, HTML5 e CSS3**
+
 <div align="center">
   <a href="https://github.com/JoaoPedroSilvaLopes">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=JoaoPedroSilvaLopes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
