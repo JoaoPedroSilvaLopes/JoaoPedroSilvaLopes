@@ -4,7 +4,7 @@
 
 - Estudante em Bacharelado em **Ciência da Computação** (IFCE)
 - Desenvolvedor Front-End
-- Conhecimentos: **JavaScript, TypeScript, HTML, CSS, Flutter e Python**
+- Conhecimentos: **JavaScript, TypeScript, HTML, CSS, Java, Flutter e Python**
 
 <div align="center">
   <a href="https://github.com/JoaoPedroSilvaLopes">
