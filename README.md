@@ -1,10 +1,10 @@
-## Iae pessoas, d boa? Eu sou o joão
+## Iae, d boa? Bem vindo ao meu perfil
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JoaoPedroSilvaLopes&color=blue" alt="Profile views" /> </p>
 
 - Estudante em Bacharelado em **Ciência da Computação** (IFCE)
-- Iniciante em **JavaScript, HTML5 e CSS3**
-- Conhecimentos em **Flutter e Python**
+- Desenvolvedor Front-End
+- Conhecimentos: **JavaScript, TypeScript, HTML, CSS, Flutter e Python**
 
 <div align="center">
   <a href="https://github.com/JoaoPedroSilvaLopes">
