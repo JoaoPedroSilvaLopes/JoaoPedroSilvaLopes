@@ -7,7 +7,7 @@
   Olá, me chamo João Pedro, tenho 21 anos. Sou formado em ciência da computação pelo IFCE campus Maracanaú. Atualmente busco aprimorar os conhecimentos em novas tecnologias e em boas práticas de desenvolvimento
 </p>
 <p align="justify"> 
-  Atuei como <strong>Desenvolvedor Front-end</strong>strong> no Núcleo de Desenvolvimento de Software do IFCE criando soluções para a comunidade acadêmica. 
+  Atuei como <strong>Desenvolvedor Front-end</strong> no Núcleo de Desenvolvimento de Software do IFCE criando soluções para a comunidade acadêmica. 
 </p>
 <p align="justify"> 
   Atualmente, atuo como <strong>Desenvolvedor Front-end</strong> na empresa NeoCode Solutions.
