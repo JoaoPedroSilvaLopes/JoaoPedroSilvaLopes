@@ -1,29 +1,26 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador">
 
-### Olá, bem vindo ao meu perfil 🍉
+### Hey there, welcome to my Github! 🍉
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JoaoPedroSilvaLopes&color=blue" alt="Profile views" /> </p>
 <p align="justify"> 
-  Olá, me chamo João Pedro, tenho 21 anos. Sou formado em ciência da computação pelo IFCE campus Maracanaú. Atualmente busco aprimorar os conhecimentos em novas tecnologias e em boas práticas de desenvolvimento
+  My name is João Lopes, a Software Engineer with 5+ years of experience.
 </p>
 <p align="justify"> 
-  Atuei como <strong>Desenvolvedor Front-end</strong> no Núcleo de Desenvolvimento de Software do IFCE criando soluções para a comunidade acadêmica. 
-</p>
-<p align="justify"> 
-  Atualmente, atuo como <strong>Desenvolvedor Front-end</strong> na empresa NeoCode Solutions.
+  Currently, I'm working as a Frontend Software Engineer
 </p>
 
 ##
 
-### ❇️ Habilidades
+### ❇️ My Skills
 
-#### Tecnologias 💻
+#### Technologies 💻
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React-Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Node](https://img.shields.io/badge/Node-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
@@ -46,9 +43,9 @@
 
 ##
 
-### Informações para contato 📞 
+### Contact me! 📞 
 
 <div>
-  <a href="https://www.linkedin.com/in/joao-pedro-silva-lopes/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="mailto:joaopedroS.L@hotmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/joaopedrosldev/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="mailto:joaopedrosl.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
